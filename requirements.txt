@@ -1,9 +1,13 @@
-autogen-agentchat
-autogen-core
-autogen-ext
+autogen_agentchat
+autogen_core
+autogen_ext
 asyncio
 dotenv
 openai
 tiktoken
-autogen-ext[docker]
+autogen_ext[docker]
 streamlit
+autogen-ext[ollama]
+pandas 
+numpy 
+matplotlib
